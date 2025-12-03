@@ -2,25 +2,6 @@
 
 > A curated list of vibe coding references, collaborating with AI to write code.
 
-
-## Contents <!-- omit in toc -->
-
-- [About the concept](#about-the-concept)
-- [Browser-based Tools](#browser-based-tools)
-- [IDEs and Code Editors](#ides-and-code-editors)
-- [Mobile Apps](#mobile-apps)
-- [Plugins and Extensions](#plugins-and-extensions)
-- [Local Apps](#local-apps)
-- [Command Line Tools](#command-line-tools)
-- [Task Management for AI Coding](#task-management-for-ai-coding)
-- [Documentation for AI Coding](#documentation-for-ai-coding)
-- [News and Social Media](#news-and-social-media)
-- [Contribute](#contribute)
-
-## About the concept
-
-- [automata/aicodeguide](https://github.com/automata/aicodeguide) - A roadmap to start coding with AI.
-
 ## Browser-based Tools
 
 -  [Bolt.new](https://bolt.new/) - Prompt, run, edit, and deploy full-stack web and mobile apps.
